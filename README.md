@@ -19,4 +19,5 @@ Aby użyć, pobierz te repozytorium jako ZIP (jak na gifie poniżej), wypakuj a 
 
 
 ENJOY / SMACZNEGO
+
 ![kitty](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
