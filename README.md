@@ -16,4 +16,6 @@ Główną rzeczą którą zmieniłem, było dodanie możliwości rozpoznawania s
 Instalacja for dummies:
 Aby użyć, pobierz te repozytorium jako ZIP, wypakuj a następnie uruchom "Huffman Tree Generator.html" w wybranej przeglądarce.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ENJOY
